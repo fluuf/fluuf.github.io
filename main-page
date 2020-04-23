@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> fluuf's site </title>
+  <style>
+    #welcome {
+    color:rgb(255, 255, 255);
+    font-size:5em;
+    text-align: right;
+    font-family: "Georgia",serif;
+    }
+    body {
+    background-color:rgba(222, 130, 139, 1);
+    font-size:15px;
+    font-family:"Georgia",serif;
+    }
+    #hello {
+    color:rgb(255, 255, 255);
+          font-family:"Georgia",serif;
+        }
+    a {
+    text-decoration: none;
+    color: rgb(255, 243, 199);
+    font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="welcome"> welcome to my page! </h1>
+  <p id="hello"> self coded online portfolio for my illustrations <br>
+    currently a student at north sydney girls high school. <br>
+    commissions open for logo designs and minor illustrations :) <br>
+     <a target="_blank" href="https://www.instagram.com/j.ess.i.y/"> instagram </a>
+  </p>
+  <h2 id="hehe"> hehe </h2>
+</body>
+</html>
